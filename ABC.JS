@@ -23,5 +23,4 @@ noButton.addEventListener('click', (event) => {
     }
 
     // Optionally, display a message after each swap
-    alert('You clicked No! Let\'s swap the buttons!');
 });
